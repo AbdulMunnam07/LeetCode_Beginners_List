@@ -39,8 +39,8 @@ Below is a table of carefully selected array problems for beginners. Each proble
 | 2 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | Given the array nums consisting of 2n elements in the form `[x1,x2,...,xn,y1,y2,...,yn]`. | Easy | Array, Hashmap, Two Pointers |
 | 3 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Move all zeroes in an array to the end while maintaining the order of non-zero elements. | Easy | Array, Two Pointers |
 | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Check if any value appears at least twice in the array. | Easy | Array, Hash Table |
-| 5 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | Given an array of integers nums, return the number of good pairs. | Easy | Array, Hash Table |
-| 6 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Given a zero-based permutation array nums, create an array ans where ans[i] = nums[nums[i]] for each i, and return it. | Easy | Array, Two Pointers |
+| 5 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | Given an array of integers `nums`, return the number of good pairs. | Easy | Array, Hash Table |
+| 6 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Given a zero-based permutation array nums, create an array ans where `ans[i] = nums[nums[i]]` for each i, and return it. | Easy | Array, Two Pointers |
 | 7 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Remove duplicates in-place from a sorted array. | Easy | Array, Two Pointers |
 | 8 | [Single Number](https://leetcode.com/problems/single-number/) | Find the single element in an array where every other element appears twice. | Easy | Array, Bit Manipulation |
 | 9 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | Given an array `nums`. We define a running sum of an array as `runningSum[i] = sum(nums[0]…nums[i])`. | Easy | Array, Prefix Sum |
