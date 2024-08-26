@@ -9,7 +9,7 @@ Mastering arrays is an essential step in becoming proficient in problem-solving 
 ## 📚 Table of Contents
 
 1. [Introduction](#introduction)
-2. [Curated Problems List](#curated-problems-list)
+2. [Problems List](#curated-problems-list)
 3. [How to Use This Repository](#how-to-use-this-repository)
 4. [Additional Resources](#additional-resources)
 5. [Contributing](#contributing)
@@ -29,7 +29,7 @@ This repository is your go-to resource for practicing simple array problems. Eac
 
 ---
 
-## 📝 Curated Problems List
+## 📝 Problems List
 
 Below is a table of carefully selected array problems for beginners. Each problem includes a brief description and a link to the corresponding LeetCode problem.
 
